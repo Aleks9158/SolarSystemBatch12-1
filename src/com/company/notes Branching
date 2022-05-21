@@ -1,0 +1,18 @@
+
+ Branches:
+
+ Project:
+ 1.Deploy the solar system with basic features as soon as possible!!!!!!!
+   Разверните солнечную систему с базовыми функциями как можно скорее!
+   Develop the features of Sun in the Solar System and deploy it!!!
+   Разработайте функции Sun в Солнечной системе и разверните их.
+ To merge a branch
+ Чтобы объединить ветку
+ step1: switch to the branch to Which u want to merge!
+ step 2:run the command "git merge "branchname" where branchname is the name of the
+        branch u want to merge
+ 3.Add Stars in the solar system and merge them in main after approval
+   from the team lead
+   Добавьте звезды в солнечную систему и объедините их в основную после одобрения
+       от руководителя команды
+    list all the branches that there are on github.
