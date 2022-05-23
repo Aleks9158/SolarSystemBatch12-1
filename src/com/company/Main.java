@@ -29,5 +29,8 @@ public class Main {
         Olso.size="696855km";
         Olso.color="pink";
 
+
+        //adding the features for planet1
+         
     }
 }
