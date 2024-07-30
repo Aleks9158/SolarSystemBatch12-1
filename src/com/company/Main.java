@@ -23,7 +23,7 @@ public class Main {
         FacX.radius="73654789866km";
         FacX.size="9999999999999m";
 
-        //adding the features for Planet2
+        //adding the features for Planet1
       /*  Planet2 Olso=new Planet2();
         Olso.name="Ozhan";
         Olso.size="696855km";
@@ -31,6 +31,9 @@ public class Main {
 */
 
         //adding the features for planet1
-         
+        Planet1Features GulK =  new Planet1Features();
+        GulK.color ="blue";
+        GulK.size="3848325828km";
+        GulK .name="preacheX" ;
     }
 }
